@@ -1,4 +1,4 @@
-[![MasterHead(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavnhanda.io)
+[![MasterHead](https://wallpaperaccess.com/full/1947431.jpg)]
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.freeimages.com/images/large-previews/2c2/programmer-1-1534401.jpg"> 

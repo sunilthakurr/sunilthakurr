@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilthakurr&label=Profile%20views&color=0e75b6&style=flat" alt="sunilthakurr" /> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently working with Chegg India as a freelancer
 
 - 💬 Ask me about **DSA,HTML,CSS,FRONTEND**
 

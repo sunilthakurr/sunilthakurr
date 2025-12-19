@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilthakurr&label=Profile%20views&color=0e75b6&style=flat" alt="sunilthakurr" /> </p>
 
-- 🌱 I’m currently working with Chegg India as a freelancer
+- 🌱 I’m currently working at 73 Strings as SDE I
 
-- 💬 Ask me about **DSA,HTML,CSS,JS, Node.js, Express, Mongo.DB**
+- 💬 Ask me about **Java, SpringBoot, MySQL, Redis, Angular, DSA**
 
 - 📫 How to reach me **sunilthakurkv@gmail.com**
 

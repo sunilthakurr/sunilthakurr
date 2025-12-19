@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/1947431.jpg)]
+
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.freeimages.com/images/large-previews/2c2/programmer-1-1534401.jpg"> 
